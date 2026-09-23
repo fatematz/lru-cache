@@ -1,0 +1,32 @@
+========================================================================
+AI_PROMPT_HISTORY.txt  —  PLACEHOLDER, REPLACE WITH YOUR OWN HISTORY
+========================================================================
+
+This file is required by the assessment brief. It is intentionally a
+placeholder: the AI prompt history must be YOUR actual conversation with
+the AI tool(s) you used, not text written by the assistant for you.
+
+How to fill it in
+-----------------
+1. Copy every prompt you sent (and the key AI replies, if the brief asks
+   for them) into this file, oldest prompt first.
+2. Keep them chronological and complete — do not rewrite or "improve"
+   the prompts afterwards.
+3. Delete this banner once your real history is in place.
+
+Suggested format
+----------------
+[Prompt 1]
+<your exact prompt text>
+
+[AI response 1 — summary or full text>
+...
+
+[Prompt 2]
+...
+
+------------------------------------------------------------------------
+Reminder: the submitted screenshot must be REAL terminal output of
+`npm run demo` (or `node demo.js`), captured live — never retyped,
+hand-edited, or fabricated.
+========================================================================
